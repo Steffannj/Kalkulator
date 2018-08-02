@@ -14,6 +14,6 @@ public class Kalkulator {
 	}
 
 	public int dijeljenje(int a, int b) {
-
+		return a/b;
 	}
 }
