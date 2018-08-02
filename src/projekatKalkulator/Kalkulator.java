@@ -2,6 +2,8 @@ package projekatKalkulator;
 
 public class Kalkulator {
 	public int sabiranje(int a, int b) {
+		
+		return (a + b);
 
 	}
 
